@@ -24,10 +24,14 @@ Maximal Extractable Value (MEV) refers to the maximum value that can be extracte
 If you use this replication package, please cite our paper:
 
 ```bibtex
-@article{mancino2025mev,
-  author    = {Davide Mancino and Alberto Leporati and Marco Viviani and Giovanni Denaro},
-  title     = {Decentralization or Favoritism? An Analysis of Ethereum Transactions and Maximal Extractable Value Strategies},
-  journal   = {tbd},
-  year      = {2025}
-}
+@INPROCEEDINGS{11114553,
+  author={Mancino, Davide and Leporati, Alberto and Viviani, Marco and Denaro, Giovanni},
+  booktitle={2025 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)}, 
+  title={Decentralization or Favoritism? An Analysis of Ethereum Transactions and Maximal Extractable Value Strategies}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-9},
+  keywords={Economics;Proof of stake;Systematics;Ecosystems;Finance;Production;Decentralized applications;Blockchains;Protection;Standards;Blockchain;Maximal Extractable Value (MEV);Ethereum;Decentralization;Blockchain democracy},
+  doi={10.1109/ICBC64466.2025.11114553}}
 ```
